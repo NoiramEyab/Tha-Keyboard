@@ -1,0 +1,21 @@
+<!--
+  Copyright (c) 2026 Marion Bayé. Tous droits réservés.
+  Ce code source et ses ressources graphiques sont la propriété exclusive de Marion Bayé.
+  Toute reproduction, modification ou distribution non autorisée est strictement interdite.
+-->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <!-- Cercle extérieur plus épais -->
+    <path
+        android:strokeColor="#1A73E8"
+        android:strokeWidth="1.6"
+        android:pathData="M12,2C6.48,2 2,6.48 2,12s4.48,10 10,10 10,-4.48 10,-10S17.52,2 12,2z"/>
+    <!-- Méridiens et parallèles plus fins -->
+    <path
+        android:strokeColor="#1A73E8"
+        android:strokeWidth="1.1"
+        android:pathData="M2,12h20 M12,2c2.5,4 2.5,16 0,20 M12,2c-2.5,4 -2.5,16 0,20 M3.5,6.5h17 M3.5,17.5h17"/>
+</vector>

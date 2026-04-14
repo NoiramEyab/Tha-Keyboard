@@ -1,0 +1,3357 @@
+le
+la
+les
+de
+des
+un
+une
+et
+à
+en
+que
+qui
+ne
+pas
+sur
+ce
+se
+il
+elle
+on
+nous
+vous
+ils
+elles
+du
+dans
+par
+pour
+au
+aux
+avec
+mais
+ou
+donc
+car
+si
+tout
+tous
+toute
+toutes
+plus
+moins
+bien
+très
+être
+avoir
+faire
+dire
+aller
+voir
+vouloir
+pouvoir
+savoir
+devoir
+venir
+prendre
+croir
+falloir
+passer
+parler
+donner
+trouver
+demander
+rester
+répondre
+penser
+arriver
+connaître
+devenir
+partir
+comprendre
+mettre
+vouloir
+temps
+jour
+main
+chose
+homme
+femme
+enfant
+vie
+monde
+monsieur
+madame
+petit
+grand
+bon
+mauvais
+nouveau
+vieux
+jeune
+premier
+dernier
+même
+autre
+quel
+quelle
+quand
+où
+comment
+pourquoi
+combien
+ici
+là
+alors
+toujours
+jamais
+souvent
+parfois
+peut-être
+encore
+déjà
+maintenant
+après
+avant
+pendant
+contre
+depuis
+chez
+pendant
+sous
+vers
+entre
+sans
+selon
+bonjour
+merci
+salut
+au revoir
+s'il vous plaît
+pardon
+oui
+non
+peut-être
+bien sûr
+d'accord
+vraiment
+très bien
+enchanté
+félicitations
+bonne chance
+joyeux anniversaire
+santé
+maison
+ville
+école
+travail
+argent
+temps
+heure
+minute
+seconde
+jour
+semaine
+mois
+année
+matin
+midi
+soir
+nuit
+aujourd'hui
+demain
+hier
+hier soir
+ce matin
+ce soir
+cette nuit
+lundi
+mardi
+mercredi
+jeudi
+vendredi
+samedi
+dimanche
+janvier
+février
+mars
+avril
+mai
+juin
+juillet
+août
+septembre
+octobre
+novembre
+décembre
+printemps
+été
+automne
+hiver
+couleur
+rouge
+bleu
+vert
+jaune
+orange
+violet
+rose
+noir
+blanc
+gris
+marron
+clair
+foncé
+beau
+belle
+joli
+vilain
+propre
+sale
+chaud
+froid
+faim
+soif
+fatigué
+malade
+heureux
+malheureux
+triste
+en colère
+peur
+surpris
+calme
+gentil
+méchant
+intelligent
+bête
+fort
+faible
+rapide
+lent
+lourd
+léger
+facile
+difficile
+possible
+impossible
+vrai
+faux
+vêtement
+chemise
+pantalon
+robe
+jupe
+chaussure
+chaussette
+chapeau
+lunettes
+montre
+sac
+portefeuille
+bijou
+or
+argent
+nourriture
+eau
+pain
+riz
+pâtes
+légume
+fruit
+viande
+poisson
+oeuf
+lait
+fromage
+beurre
+sucre
+sel
+poivre
+épice
+café
+thé
+jus
+vin
+bière
+alcool
+petit-déjeuner
+déjeuner
+dîner
+goûter
+restaurant
+cuisine
+recette
+cuisiner
+manger
+boire
+dormir
+se réveiller
+se laver
+s'habiller
+sortir
+rentrer
+travailler
+étudier
+lire
+écrire
+écouter
+regarder
+parler
+chanter
+danser
+jouer
+rire
+pleurer
+marcher
+courir
+nager
+conduire
+voyager
+visiter
+corps
+tête
+cheveux
+visage
+oeil
+yeux
+oreille
+nez
+bouche
+dent
+langue
+cou
+épaule
+bras
+main
+doigt
+ongle
+poitrine
+ventre
+dos
+jambe
+pied
+genou
+coeur
+poumon
+estomac
+sang
+os
+peau
+muscle
+famille
+père
+mère
+parents
+fils
+fille
+frère
+soeur
+grand-père
+grand-mère
+oncle
+tante
+cousin
+cousine
+neveu
+nièce
+mari
+femme
+ami
+amie
+copain
+copine
+voisin
+collègue
+animal
+chien
+chat
+oiseau
+cheval
+vache
+cochon
+mouton
+chèvre
+poulet
+canard
+poisson
+lapin
+souris
+rat
+serpent
+lion
+tigre
+éléphant
+singe
+ours
+girafe
+zèbre
+kangourou
+pingouin
+baleine
+dauphin
+requin
+insecte
+abeille
+papillon
+moustique
+fourmi
+mouche
+cafard
+araignée
+nature
+ciel
+soleil
+lune
+étoile
+nuage
+pluie
+neige
+vent
+orage
+éclair
+arc-en-ciel
+montagne
+colline
+vallée
+forêt
+arbre
+fleur
+herbe
+plante
+mer
+océan
+vague
+plage
+île
+rivière
+fleuve
+lac
+étang
+terre
+sol
+sable
+pierre
+rocher
+métal
+plastique
+verre
+papier
+bois
+tissu
+cuir
+caoutchouc
+ville
+rue
+avenue
+boulevard
+place
+pont
+tunnel
+bâtiment
+maison
+appartement
+étage
+rez-de-chaussée
+chambre
+salon
+salle de bain
+toilettes
+cuisine
+balcon
+jardin
+parc
+magasin
+boutique
+marché
+supermarché
+centre commercial
+banque
+poste
+hôpital
+clinique
+pharmacie
+hôtel
+cinéma
+théâtre
+musée
+bibliothèque
+gare
+aéroport
+port
+arrêt de bus
+station de métro
+taxi
+vélo
+moto
+voiture
+camion
+bus
+train
+avion
+bateau
+objet
+chose
+truc
+machin
+outil
+machine
+appareil
+ordinateur
+téléphone
+tablette
+écran
+clavier
+souris
+imprimante
+appareil photo
+télévision
+radio
+lampe
+ampoule
+pile
+batterie
+fil
+prise
+interrupteur
+meuble
+table
+chaise
+fauteuil
+canapé
+lit
+armoire
+étagère
+bureau
+tapis
+rideau
+miroir
+cadre
+tableau
+vaisseau
+vaisselle
+assiette
+verre
+tasse
+bol
+couvert
+fourchette
+couteau
+cuillère
+poêle
+casserole
+four
+micro-ondes
+frigo
+congélateur
+lave-linge
+lave-vaisselle
+aspirateur
+fer à repasser
+sport
+football
+tennis
+basket-ball
+natation
+vélo
+course à pied
+gymnastique
+yoga
+ski
+surf
+musique
+instrument
+piano
+guitare
+violon
+batterie
+trompette
+chant
+chanson
+album
+concert
+art
+peinture
+sculpture
+photographie
+dessin
+architecture
+littérature
+livre
+roman
+poésie
+journal
+magazine
+bd
+film
+série
+documentaire
+dessin animé
+jeu
+jouet
+jeu vidéo
+jeu de société
+cartes
+échecs
+éducation
+école
+collège
+lycée
+université
+classe
+professeur
+étudiant
+élève
+leçon
+exercice
+examen
+diplôme
+science
+mathématiques
+physique
+chimie
+biologie
+médecine
+géographie
+histoire
+philosophie
+psychologie
+sociologie
+économie
+politique
+loi
+droit
+justice
+crime
+prison
+police
+armée
+guerre
+paix
+religion
+dieu
+église
+mosquée
+synagogue
+temple
+prière
+foi
+croyance
+culture
+tradition
+coutume
+fête
+vacances
+voyage
+destination
+hôtel
+camping
+plage
+mer
+montagne
+campagne
+forêt
+désert
+climat
+météo
+température
+soleil
+nuages
+pluie
+neige
+vent
+brouillard
+foudre
+tonnerre
+espace
+univers
+galaxie
+planète
+terre
+mars
+jupiter
+saturne
+vénus
+mercure
+uranus
+neptune
+pluton
+lune
+astéroïde
+comète
+fusée
+satellite
+astronaute
+santé
+bien-être
+corps
+esprit
+âme
+vie
+mort
+naissance
+mariage
+amour
+amitié
+haine
+colère
+joie
+tristesse
+bonheur
+malheur
+succès
+échec
+peur
+courage
+espoir
+désespoir
+vérité
+mensonge
+liberté
+égalité
+fraternité
+paix
+justice
+honneur
+respect
+confiance
+doute
+choix
+décision
+action
+résultat
+conséquence
+problème
+solution
+idée
+pensée
+imagination
+créativité
+mémoire
+intelligence
+connaissance
+sagesse
+expérience
+habitude
+caractère
+personnalité
+comportement
+attitude
+sentiment
+émotion
+sensation
+douleur
+plaisir
+goût
+odorat
+ouïe
+vue
+toucher
+forme
+taille
+poids
+distance
+vitesse
+temps
+durée
+fréquence
+quantité
+nombre
+chiffre
+zéro
+un
+deux
+trois
+quatre
+cinq
+six
+sept
+huit
+neuf
+dix
+onze
+douze
+treize
+quatorze
+quinze
+seize
+dix-sept
+dix-huit
+dix-neuf
+vingt
+trente
+quarante
+cinquante
+soixante
+soixante-dix
+quatre-vingts
+quatre-vingt-dix
+cent
+mille
+million
+milliard
+premier
+deuxième
+troisième
+dernier
+moitié
+quart
+tiers
+double
+triple
+plus
+moins
+égal
+environ
+presque
+tellement
+trop
+assez
+peu
+beaucoup
+tout
+rien
+quelque chose
+quelqu'un
+n'importe quoi
+n'importe qui
+chaque
+chacun
+quelques
+plusieurs
+beaucoup de
+peu de
+assez de
+trop de
+plus de
+moins de
+autant de
+autre
+même
+seul
+propre
+différent
+semblable
+pareil
+commun
+particulier
+spécial
+général
+public
+privé
+officiel
+vrai
+faux
+réel
+imaginaire
+possible
+impossible
+probable
+improbable
+certain
+incertain
+nécessaire
+utile
+inutile
+important
+grave
+léger
+facile
+difficile
+simple
+complexe
+clair
+obscur
+net
+flou
+propre
+sale
+neuf
+vieux
+ancien
+moderne
+rapide
+lent
+chaud
+froid
+tiède
+sec
+humide
+mouillé
+dur
+mou
+tendre
+ferme
+fragile
+solide
+fort
+faible
+puissant
+grand
+petit
+large
+étroit
+long
+court
+haut
+bas
+profond
+épais
+fin
+mince
+gros
+gras
+maigre
+lourd
+léger
+vide
+plein
+ouvert
+fermé
+libre
+occupé
+prêt
+fini
+terminé
+commencé
+en cours
+passé
+présent
+futur
+prochain
+dernier
+actuel
+récent
+ancien
+vieux
+jeune
+nouveau
+beau
+joli
+vilain
+laid
+agréable
+désagréable
+sympathique
+antipathique
+gentil
+méchant
+bon
+mauvais
+délicieux
+horrible
+intéressant
+ennuyeux
+amusant
+drôle
+sérieux
+calme
+agité
+bruyant
+silencieux
+paisible
+dangereux
+sûr
+prudent
+imprudent
+riche
+pauvre
+cher
+bon marché
+gratuit
+payant
+public
+privé
+national
+international
+local
+étranger
+connu
+inconnu
+célèbre
+populaire
+rare
+courant
+normal
+anormal
+bizarre
+étrange
+curieux
+surprenant
+incroyable
+magnifique
+merveilleux
+superbe
+génial
+super
+cool
+top
+nul
+moche
+vrai
+faux
+exact
+juste
+faux
+erroné
+correct
+incorrect
+bon
+mauvais
+bien
+mal
+mieux
+pis
+pire
+davantage
+plutôt
+surtout
+notamment
+particulièrement
+uniquement
+seulement
+simplement
+justement
+précisément
+effectivement
+réellement
+véritablement
+certainement
+assurément
+probablement
+peut-être
+sans doute
+évidemment
+naturellement
+volontiers
+facilement
+difficilement
+rapidement
+lentement
+doucement
+fortement
+faiblement
+soudain
+brusquement
+tout à coup
+immédiatement
+aussitôt
+enfin
+finalement
+bientôt
+tôt
+tard
+déjà
+encore
+toujours
+ne... plus
+ne... jamais
+ne... rien
+ne... personne
+ne... pas encore
+souvent
+parfois
+quelquefois
+rarement
+naguère
+autrefois
+jadis
+auparavant
+ensuite
+puis
+après
+avant
+pendant
+depuis
+jusque
+vers
+environ
+autour
+au-dessus
+au-dessous
+devant
+derrière
+dedans
+dehors
+partout
+nulle part
+ailleurs
+ici
+là
+là-bas
+loin
+près
+proche
+ensemble
+séparément
+seul
+en commun
+vis-à-vis
+face à
+contre
+malgré
+pourtant
+cependant
+toutefois
+néanmoins
+sinon
+ainsi
+tellement
+tant
+très
+trop
+assez
+peu
+un peu
+beaucoup
+davantage
+presque
+quasiment
+environ
+à peu près
+environ
+plus
+moins
+autant
+mieux
+pis
+comme
+comment
+combien
+quand
+où
+pourquoi
+que
+qu'est-ce que
+qui
+quoi
+lequel
+laquelle
+lesquels
+lesquelles
+duquel
+auquel
+donnant
+prenant
+faisant
+allant
+venant
+voyant
+disant
+sachant
+voulant
+pouvant
+devant
+étant
+ayant
+finissant
+choisissant
+réussissant
+partant
+sortant
+dormant
+mangeant
+buvant
+jouant
+travaillant
+étudiant
+apprenant
+comprenant
+attendant
+répondant
+vendant
+lisant
+écrivant
+disant
+faisant
+prenant
+mettant
+venant
+tenant
+allant
+étant
+ayant
+le
+la
+les
+du
+des
+au
+aux
+un
+une
+des
+mon
+ma
+mes
+ton
+ta
+tes
+son
+sa
+ses
+notre
+nos
+votre
+vos
+leur
+leurs
+ce
+cet
+cette
+ces
+celui
+celle
+ceux
+celles
+quel
+quelle
+quels
+quelles
+aucun
+aucune
+certain
+certaine
+certains
+certaines
+chaque
+plusieurs
+quelque
+quelques
+tout
+toute
+tous
+toutes
+je
+tu
+il
+elle
+on
+nous
+vous
+ils
+elles
+me
+te
+se
+le
+la
+lui
+nous
+vous
+les
+leur
+moi
+toi
+soi
+lui
+elle
+nous
+vous
+eux
+elles
+qui
+que
+quoi
+dont
+où
+lequel
+laquelle
+lesquels
+lesquelles
+quelqu'un
+quelque chose
+quiconque
+personne
+rien
+chacun
+chacune
+un
+une
+deux
+trois
+quatre
+cinq
+six
+sept
+huit
+neuf
+dix
+cent
+mille
+million
+milliard
+premier
+seconde
+troisième
+dixième
+vingtième
+centième
+millième
+dernier
+terminé
+fini
+complet
+total
+entier
+plein
+vide
+nu
+seul
+unique
+double
+triple
+multiple
+simple
+facile
+difficile
+vrai
+faux
+juste
+correct
+exact
+bon
+mauvais
+bien
+mal
+mieux
+pire
+plus
+moins
+autant
+si
+tellement
+tant
+trop
+assez
+peu
+un peu
+beaucoup
+très
+fort
+bien
+mieux
+davantage
+encore
+déjà
+toujours
+jamais
+souvent
+rarement
+parfois
+quelquefois
+tôt
+tard
+bientôt
+maintenant
+aujourd'hui
+hier
+demain
+ici
+là
+partout
+nulle part
+ailleurs
+loin
+près
+devant
+derrière
+dessus
+dessous
+dedans
+dehors
+ensemble
+séparément
+vite
+lentement
+doucement
+gentiment
+méchamment
+poliment
+vraiment
+sûrement
+peut-être
+probablement
+certainement
+assurément
+évidemment
+naturellement
+volontiers
+heureusement
+malheureusement
+seulement
+uniquement
+simplement
+aussi
+non plus
+même
+surtout
+notamment
+enfin
+en fait
+en effet
+en réalité
+en revanche
+par contre
+pourtant
+cependant
+toutefois
+néanmoins
+malgré tout
+quand même
+alors
+donc
+ainsi
+par conséquent
+c'est pourquoi
+si
+au cas où
+si bien que
+de sorte que
+parce que
+car
+puisque
+comme
+étant donné que
+vu que
+pour que
+afin que
+de peur que
+bien que
+quoique
+encore que
+pendant que
+alors que
+tandis que
+depuis que
+dès que
+sitôt que
+après que
+avant que
+jusqu'à ce que
+sans que
+à moins que
+pourvu que
+selon que
+suivant que
+comme si
+afin de
+pour
+sans
+avant de
+après
+depuis
+pendant
+durant
+entre
+parmi
+chez
+vers
+jusque
+dans
+en
+sur
+sous
+devant
+derrière
+à côté de
+près de
+loin de
+au-dessus de
+au-dessous de
+en face de
+autour de
+contre
+malgré
+sauf
+hormis
+excepté
+avec
+sans
+par
+pour
+de
+à
+en
+vers
+environ
+environ
+vers
+depuis
+pendant
+durant
+pendant
+pour
+depuis
+il y a
+dans
+en
+à
+de
+le
+la
+les
+un
+une
+des
+du
+de la
+de l'
+des
+au
+aux
+mon
+ma
+mes
+ton
+ta
+tes
+son
+sa
+ses
+notre
+nos
+votre
+vos
+leur
+leurs
+ce
+cet
+cette
+ces
+mon
+mien
+mienne
+miens
+miennes
+ton
+tien
+tienne
+tiens
+tiennes
+son
+sien
+sienne
+siens
+siennes
+notre
+nôtre
+nôtres
+votre
+vôtre
+vôtres
+leur
+leur
+leurs
+ce
+ceci
+cela
+ça
+celui
+celui-ci
+celui-là
+celle
+celle-ci
+celle-là
+ceux
+ceux-ci
+ceux-là
+celles
+celles-ci
+celles-là
+qui
+que
+quoi
+dont
+où
+lequel
+laquelle
+lesquels
+lesquelles
+auquel
+auxquels
+auxquelles
+duquel
+desquels
+desquelles
+quel
+quelle
+quels
+quelles
+lequel
+laquelle
+lesquels
+lesquelles
+quelqu'un
+quelques-uns
+quelques-unes
+chacun
+chacune
+plusieurs
+certains
+certaines
+certain
+certaine
+autrui
+personne
+rien
+aucun
+aucune
+nul
+nulle
+tel
+telle
+tels
+telles
+tout
+toute
+tous
+toutes
+on
+soi
+en
+y
+le
+la
+les
+lui
+leur
+me
+te
+se
+nous
+vous
+ne
+pas
+plus
+jamais
+point
+guère
+rien
+personne
+aucun
+nulle part
+ni
+que
+si
+et
+ou
+mais
+car
+ni
+or
+donc
+puis
+ensuite
+alors
+pourtant
+cependant
+toutefois
+néanmoins
+par contre
+en revanche
+en effet
+en fait
+en réalité
+enfin
+finalement
+bref
+ainsi
+donc
+par conséquent
+c'est pourquoi
+soit
+soit
+ni
+ni
+non seulement
+mais aussi
+d'une part
+d'autre part
+premièrement
+deuxièmement
+enfin
+à vrai dire
+au contraire
+en revanche
+par ailleurs
+de plus
+en outre
+par exemple
+notamment
+en particulier
+c'est-à-dire
+soit
+voire
+même
+si
+comme
+quand
+lorsque
+puisque
+parce que
+car
+pour que
+afin que
+bien que
+quoique
+si bien que
+de sorte que
+pendant que
+alors que
+tandis que
+depuis que
+dès que
+après que
+avant que
+jusqu'à ce que
+sans que
+à moins que
+pourvu que
+à condition que
+au cas où
+selon que
+comme si
+si
+quand
+où
+comment
+pourquoi
+combien
+est-ce que
+qu'est-ce que
+qu'est-ce qui
+qui
+quoi
+lequel
+laquelle
+lesquels
+lesquelles
+quel
+quelle
+quels
+quelles
+bonjour
+salut
+coucou
+allo
+bonsoir
+bonne nuit
+au revoir
+adieu
+à bientôt
+à demain
+à tout à l'heure
+à plus tard
+merci
+merci beaucoup
+de rien
+je vous en prie
+s'il vous plaît
+pardon
+excusez-moi
+désolé
+félicitations
+bravo
+bonne chance
+joyeux anniversaire
+bonne année
+santé
+bon appétit
+bon voyage
+bon courage
+bienvenue
+enchanté
+ravi de vous rencontrer
+comment allez-vous
+ça va
+oui
+non
+peut-être
+bien sûr
+d'accord
+exactement
+tout à fait
+certainement
+absolument
+évidemment
+vraisemblablement
+probablement
+peut-être
+pas du tout
+pas vraiment
+pas encore
+pas de problème
+ce n'est pas grave
+c'est ça
+c'est vrai
+c'est faux
+c'est possible
+c'est impossible
+c'est incroyable
+c'est génial
+c'est super
+c'est cool
+c'est dommage
+c'est triste
+c'est drôle
+c'est bizarre
+c'est étrange
+c'est marrant
+c'est nul
+c'est moche
+c'est beau
+c'est joli
+c'est parfait
+c'est magnifique
+c'est terminé
+c'est fini
+c'est prêt
+c'est ouvert
+c'est fermé
+c'est chaud
+c'est froid
+c'est cher
+c'est gratuit
+c'est ici
+c'est là
+c'est là-bas
+c'est partout
+c'est nulle part
+c'est moi
+c'est toi
+c'est lui
+c'est elle
+c'est nous
+c'est vous
+c'est eux
+c'est elles
+voilà
+voici
+tiens
+regarde
+écoute
+attention
+allez
+on y va
+en route
+c'est parti
+stop
+assez
+suffit
+doucement
+vite
+tranquille
+silence
+chuut
+bon
+bien
+très bien
+parfait
+okay
+ok
+super
+génial
+magnifique
+merveilleux
+excellent
+bravo
+félicitations
+pardon
+désolé
+excusez-moi
+s'il vous plaît
+merci
+de rien
+enchanté
+au revoir
+à plus
+salut
+ciao
+bye
+adieu
+terminé
+fin
+finito
+stop
+assez
+encore
+toujours
+déjà
+enfin
+ouf
+bon
+allez
+hop
+zic
+boum
+paf
+crac
+vlan
+splash
+plouf
+ding
+dong
+tic
+tac
+bip
+bip
+meuh
+wouf
+miaou
+cocorico
+hi-han
+coin-coin
+bêê
+meuh
+beurk
+miam
+aïe
+ouille
+oh
+ah
+eh
+ih
+oh
+uh
+yé
+youpi
+hourra
+bravo
+hélas
+zut
+mince
+flûte
+merde
+putain
+bordel
+con
+idiot
+bête
+salut
+ça va
+comment ça va
+quoi de neuf
+rien de spécial
+tout va bien
+ça va super
+ça pourrait aller mieux
+je suis fatigué
+je suis occupé
+je suis pressé
+j'ai faim
+j'ai soif
+j'ai sommeil
+j'ai chaud
+j'ai froid
+j'ai mal
+je suis perdu
+je ne sais pas
+je ne comprends pas
+pouvez-vous répéter
+pouvez-vous m'aider
+où se trouve
+quel est le prix
+je voudrais
+j'aime
+je n'aime pas
+je préfère
+c'est quoi
+qu'est-ce qui se passe
+à quelle heure
+quelle heure est-il
+quel jour sommes-nous
+quel temps fait-il
+il fait beau
+il pleut
+il neige
+il fait du vent
+il fait soleil
+il fait gris
+il fait froid
+il fait chaud
+c'est loin
+c'est près
+comment on dit
+comment ça s'écrit
+comment ça se prononce
+merci d'avance
+bonne journée
+bonne soirée
+bon week-end
+à la prochaine
+prends soin de toi
+bisous
+je t'aime
+je t'adore
+tu me manques
+joyeux noël
+bonne année
+meilleurs voeux
+santé
+bonheur
+amour
+paix
+succès
+réussite
+argent
+chance
+santé
+prospérité
+longue vie
+félicitations
+bravo
+chapeau
+respect
+force
+courage
+patience
+sagesse
+vérité
+liberté
+justice
+égalité
+fraternité
+solidarité
+amitié
+amour
+famille
+vie
+monde
+terre
+nature
+univers
+dieu
+âme
+esprit
+coeur
+corps
+homme
+femme
+enfant
+vieillard
+humain
+être
+exister
+vivre
+mourir
+naître
+grandir
+apprendre
+comprendre
+savoir
+penser
+croire
+imaginer
+rêver
+vouloir
+pouvoir
+devoir
+faire
+agir
+créer
+donner
+recevoir
+partager
+aider
+aimer
+haïr
+pardonner
+oublier
+se souvenir
+chercher
+trouver
+choisir
+décider
+réussir
+échouer
+essayer
+recommencer
+continuer
+s'arrêter
+changer
+évoluer
+transformer
+améliorer
+protéger
+respecter
+écouter
+regarder
+sentir
+goûter
+toucher
+parler
+dire
+écrire
+lire
+chanter
+danser
+jouer
+rire
+pleurer
+sourire
+dormir
+manger
+boire
+marcher
+courir
+nager
+voler
+voyager
+découvrir
+explorer
+connaître
+conquérir
+gagner
+perdre
+combattre
+défendre
+attaquer
+protéger
+sauver
+libérer
+unir
+diviser
+construire
+détruire
+réparer
+soigner
+guérir
+souffrir
+peiner
+travailler
+se reposer
+s'amuser
+fêter
+célébrer
+adorer
+prier
+méditer
+réfléchir
+analyser
+juger
+critiquer
+apprécier
+admirer
+louer
+blâmer
+punir
+récompenser
+enseigner
+éduquer
+guider
+suivre
+mener
+diriger
+gouverner
+obéir
+servir
+sacrifier
+dévouer
+consacrer
+offrir
+vendre
+acheter
+échanger
+prêter
+emprunter
+payer
+coûter
+valoir
+gagner
+dépenser
+épargner
+investir
+risquer
+gagner
+perdre
+finir
+commencer
+ouvrir
+fermer
+entrer
+sortir
+monter
+descendre
+tomber
+se lever
+s'asseoir
+se coucher
+se réveiller
+s'habiller
+se déshabiller
+se laver
+se brosser
+se coiffer
+se raser
+se maquiller
+se préparer
+partir
+arriver
+revenir
+rester
+attendre
+passer
+traverser
+suivre
+accompagner
+rencontrer
+visiter
+inviter
+recevoir
+accueillir
+quitter
+laisser
+abandonner
+garder
+tenir
+porter
+pousser
+tirer
+lancer
+attraper
+casser
+couper
+coller
+plier
+tordre
+frapper
+battre
+tuer
+mourir
+vivre
+survivre
+naître
+renaître
+être
+devenir
+sembler
+paraître
+rester
+demeurer
+avoir
+posséder
+tenir
+contenir
+inclure
+exclure
+appartenir
+dépendre
+dériver
+provenir
+résulter
+causer
+provoquer
+entraîner
+permettre
+interdire
+empêcher
+obliger
+forcer
+inciter
+inviter
+proposer
+suggérer
+conseiller
+commander
+ordonner
+exiger
+demander
+prier
+solliciter
+réclamer
+revendiquer
+protester
+se plaindre
+se fâcher
+se réjouir
+s'étonner
+s'inquiéter
+s'alarmer
+se rassurer
+se confier
+se méfier
+se tromper
+se perdre
+se retrouver
+se décider
+se préparer
+se dépêcher
+se calmer
+se taire
+se souvenir
+se rappeler
+s'endormir
+s'éveiller
+s'amuser
+s'ennuyer
+s'intéresser
+s'occuper
+s'appliquer
+s'efforcer
+s'adapter
+s'habituer
+s'installer
+s'arrêter
+s'en aller
+s'enfuir
+s'échapper
+s'approcher
+s'éloigner
+se rapprocher
+se séparer
+se réunir
+se rencontrer
+se croiser
+se joindre
+se lier
+se marier
+se fiancer
+se disputer
+se battre
+se réconcilier
+se pardonner
+se comprendre
+se connaître
+se parler
+se dire
+s'écrire
+s'appeler
+se nommer
+se trouver
+se situer
+se passer
+se dérouler
+s'agir
+se produire
+se manifester
+se révéler
+se confirmer
+se vérifier
+se réaliser
+se concrétiser
+se terminer
+se conclure
+se résoudre
+se décider
+se régler
+se terminer
+finir
+clore
+achever
+compléter
+parfaire
+perfectionner
+aboutir
+réussir
+triompher
+vaincre
+dominer
+commander
+diriger
+gérer
+administrer
+organiser
+planifier
+prévoir
+anticiper
+imaginer
+concevoir
+créer
+inventer
+innover
+découvrir
+trouver
+résoudre
+débrouiller
+adapter
+ajuster
+régler
+corriger
+modifier
+transformer
+changer
+évoluer
+progrésser
+avancer
+reculer
+tomber
+monter
+descendre
+glisser
+sauter
+bondir
+courir
+marcher
+flâner
+errer
+voyager
+partir
+revenir
+rentrer
+sortir
+entrer
+passer
+séjourner
+habiter
+vivre
+demeurer
+loger
+être
+exister
+subsister
+durer
+persister
+maintenir
+conserver
+garder
+préserver
+protéger
+sauver
+secourir
+aider
+assister
+soutenir
+appuyer
+favoriser
+encourager
+stimuler
+inciter
+pousser
+contraindre
+forcer
+obliger
+imposer
+ordonner
+commander
+exiger
+réclamer
+demander
+prier
+solliciter
+quêter
+mendier
+implorer
+supplier
+adjurer
+vouer
+dédier
+consacrer
+offrir
+donner
+faire cadeau
+gratifier
+doter
+pourvoir
+munir
+équiper
+armer
+préparer
+apprêter
+dresser
+former
+éduquer
+instruire
+enseigner
+montrer
+indiquer
+signaler
+désigner
+nommer
+appeler
+citer
+évoquer
+rappeler
+remémorer
+souvenir
+oublier
+omettre
+négliger
+délaisser
+abandonner
+quitter
+partir
+s'en aller
+fuir
+s'échapper
+se sauver
+se dérober
+éviter
+esquiver
+parer
+prévenir
+empêcher
+interdire
+défendre
+prohiber
+exclure
+rejeter
+repousser
+chasser
+bannir
+expulser
+éliminer
+supprimer
+effacer
+annuler
+révoquer
+abroger
+abolir
+détruire
+anéantir
+ravager
+dévaster
+ruiner
+briser
+casser
+rompre
+fendre
+déchirer
+user
+abîmer
+détériorer
+dégrader
+corrompre
+altérer
+fausser
+tromper
+leurrer
+illusionner
+mentir
+feindre
+simuler
+dissimuler
+cacher
+voiler
+masquer
+couvrir
+envelopper
+entourer
+cerner
+assiéger
+bloquer
+arrêter
+stopper
+freiner
+ralentir
+accélérer
+hâter
+presser
+dépêcher
+avancer
+pousser
+promouvoir
+élever
+hausser
+augmenter
+accroître
+amplifier
+élargir
+étendre
+développer
+étaler
+déployer
+ouvrir
+déplier
+dénouer
+détacher
+délier
+libérer
+affranchir
+émanciper
+sauver
+délivrer
+secourir
+aider
+assister
+soigner
+guérir
+soulager
+apaiser
+calmer
+rassurer
+consoler
+réconforter
+encourager
+soutenir
+fortifier
+raffermir
+consolider
+unir
+joindre
+lier
+attacher
+fixer
+coller
+souder
+assembler
+réunir
+grouper
+rassembler
+collecter
+cueillir
+récolter
+amasser
+accumuler
+entasser
+stocker
+garder
+conserver
+maintenir
+tenir
+saisir
+prendre
+capter
+recevoir
+accueillir
+accepter
+admettre
+reconnaître
+avouer
+confesser
+déclarer
+dire
+énoncer
+exprimer
+manifester
+révéler
+dévoiler
+exposer
+montrer
+présenter
+produire
+étaler
+exhiber
+parader
+briller
+rayonner
+éclater
+résonner
+vibrer
+chanter
+parler
+discourir
+causer
+bavarder
+chuchoter
+murmurer
+crier
+hurler
+gémir
+pleurer
+sangloter
+rire
+sourire
+ricaner
+moquer
+railler
+blaguer
+plaisanter
+jouer
+s'amuser
+fêter
+célébrer
+honorer
+respecter
+vénérer
+adorer
+prier
+implorer
+supplier
+demander
+vouloir
+désirer
+souhaiter
+espérer
+attendre
+prévoir
+anticiper
+craindre
+redouter
+appréhender
+s'inquiéter
+se soucier
+s'occuper
+veiller
+soigner
+traiter
+gérer
+conduire
+mener
+diriger
+gouverner
+régner
+dominer
+vaincre
+soumettre
+asservir
+opprimer
+exploiter
+trahir
+tromper
+voler
+piller
+tuer
+assassiner
+nuire
+blesser
+offenser
+insulter
+outrager
+mépriser
+dédaigner
+ignorer
+négliger
+oublier
+pardonner
+excuser
+gracier
+absoudre
+justifier
+défendre
+protéger
+sauver
+aider
+servir
+travailler
+oeuvrer
+agir
+faire
+accomplir
+réaliser
+exécuter
+remplir
+satisfaire
+contenter
+plaire
+charmer
+séduire
+attirer
+inviter
+accueillir
+recevoir
+loger
+nourrir
+élever
+éduquer
+former
+instruire
+guider
+conseiller
+aider
+assister
+soutenir
+aimer
+adorer
+chérir
+apprécier
+estimer
+priser
+goûter
+savourer
+jouir
+profiter
+bénéficier
+gagner
+acquérir
+obtenir
+recevoir
+hériter
+trouver
+découvrir
+inventer
+créer
+produire
+construire
+bâtir
+édifier
+fonder
+établir
+organiser
+instituer
+légiférer
+juger
+condamner
+punir
+châtier
+corriger
+amender
+réformer
+transformer
+changer
+évoluer
+fin
+alors
+aussi
+mais
+donc
+car
+comme
+quand
+après
+avant
+avec
+sans
+sous
+dans
+entre
+vers
+pour
+par
+sur
+jusqu
+depuis
+pendant
+malgré
+selon
+grâce
+cause
+raison
+façon
+fois
+jour
+soir
+matin
+nuit
+semaine
+mois
+année
+heure
+minute
+moment
+temps
+place
+chose
+monde
+pays
+ville
+rue
+maison
+porte
+fenêtre
+table
+chaise
+livre
+papier
+stylo
+crayon
+cahier
+classe
+école
+collège
+lycée
+université
+élève
+étudiant
+professeur
+directeur
+parent
+enfant
+garçon
+fille
+homme
+femme
+monsieur
+madame
+ami
+copain
+copine
+famille
+frère
+sœur
+père
+mère
+grand-père
+grand-mère
+oncle
+tante
+cousin
+cousine
+bébé
+adulte
+vieux
+jeune
+grand
+petit
+gros
+mince
+beau
+belle
+gentil
+méchant
+sympa
+drôle
+triste
+content
+heureux
+fâché
+fatigué
+malade
+fort
+faible
+rapide
+lent
+chaud
+froid
+dur
+mou
+propre
+sale
+neuf
+ancien
+plein
+vide
+ouvert
+fermé
+vrai
+faux
+facile
+difficile
+possible
+impossible
+certain
+sûr
+normal
+bizarre
+important
+utile
+nouveau
+dernier
+premier
+prochain
+même
+autre
+chaque
+tout
+tous
+plusieurs
+quelques
+beaucoup
+peu
+très
+assez
+trop
+encore
+déjà
+jamais
+toujours
+souvent
+parfois
+vite
+bien
+mal
+mieux
+moins
+plus
+voiture
+train
+avion
+bus
+métro
+vélo
+moto
+bateau
+route
+autoroute
+gare
+aéroport
+hôtel
+restaurant
+café
+boulangerie
+magasin
+marché
+supermarché
+banque
+poste
+hôpital
+pharmacie
+médecin
+dentiste
+infirmière
+police
+pompier
+avocat
+ingénieur
+architecte
+artiste
+musicien
+chanteur
+acteur
+journaliste
+cuisinier
+boulanger
+boucher
+coiffeur
+plombier
+électricien
+chauffeur
+pilote
+capitaine
+soldat
+président
+ministre
+maire
+député
+directeur
+manager
+secrétaire
+employé
+patron
+client
+vendeur
+acheteur
+argent
+prix
+euro
+centime
+salaire
+facture
+loyer
+impôt
+crédit
+banque
+compte
+carte
+paiement
+monnaie
+téléphone
+portable
+ordinateur
+tablette
+internet
+réseau
+message
+email
+photo
+vidéo
+musique
+film
+série
+chanson
+émission
+journal
+magazine
+télévision
+radio
+application
+logiciel
+programme
+données
+fichier
+dossier
+écran
+clavier
+souris
+imprimante
+câble
+chargeur
+batterie
+nourriture
+repas
+petit-déjeuner
+déjeuner
+dîner
+goûter
+entrée
+plat
+dessert
+salade
+soupe
+viande
+poisson
+poulet
+bœuf
+jambon
+fromage
+yaourt
+lait
+beurre
+huile
+sucre
+sel
+poivre
+farine
+riz
+pâtes
+pain
+gâteau
+fruit
+légume
+pomme
+poire
+orange
+citron
+banane
+fraise
+cerise
+raisin
+tomate
+carotte
+pomme de terre
+salade
+haricot
+oignon
+ail
+champignon
+eau
+jus
+café
+thé
+bière
+vin
+jus d'orange
+limonade
+sport
+football
+tennis
+natation
+cyclisme
+course
+marche
+randonnée
+ski
+basket
+rugby
+volleyball
+golf
+équipe
+joueur
+match
+victoire
+défaite
+entraîneur
+stade
+piscine
+terrain
+santé
+maladie
+douleur
+fièvre
+rhume
+grippe
+allergie
+opération
+traitement
+médicament
+ordonnance
+consultation
+symptôme
+examen
+analyse
+résultat
+guérison
+repos
+vacances
+voyage
+tourisme
+camping
+séjour
+location
+réservation
+passeport
+valise
+bagage
+carte postale
+souvenir
+culture
+histoire
+géographie
+science
+mathématiques
+physique
+chimie
+biologie
+philosophie
+littérature
+poésie
+théâtre
+peinture
+sculpture
+architecture
+danse
+cinéma
+photographie
+gastronomie
+religion
+politique
+économie
+société
+environnement
+nature
+forêt
+montagne
+mer
+plage
+lac
+rivière
+fleuve
+désert
+île
+continent
+planète
+soleil
+lune
+étoile
+ciel
+nuage
+pluie
+neige
+vent
+orage
+température
+saison
+printemps
+été
+automne
+hiver
+animal
+chien
+chat
+cheval
+vache
+cochon
+mouton
+chèvre
+lapin
+poule
+canard
+oiseau
+lion
+tigre
+éléphant
+girafe
+singe
+serpent
+crocodile
+requin
+dauphin
+baleine
+papillon
+abeille
+fourmi
+araignée
+couleur
+rouge
+bleu
+vert
+jaune
+orange
+violet
+rose
+blanc
+noir
+gris
+marron
+beige
+clair
+foncé
+brillant
+mat
+forme
+rond
+carré
+triangle
+rectangle
+cercle
+ligne
+point
+angle
+côté
+surface
+volume
+poids
+taille
+longueur
+largeur
+hauteur
+profondeur
+distance
+vitesse
+force
+énergie
+lumière
+son
+odeur
+goût
+toucher
+sentiment
+amour
+amitié
+bonheur
+tristesse
+peur
+colère
+surprise
+joie
+jalousie
+fierté
+honte
+regret
+espoir
+rêve
+désir
+besoin
+envie
+problème
+solution
+question
+réponse
+idée
+opinion
+décision
+choix
+accord
+désaccord
+conflit
+paix
+guerre
+justice
+liberté
+égalité
+fraternité
+droits
+devoirs
+loi
+règle
+ordre
+règlement
+contrat
+accord
+engagement
+promesse
+vérité
+mensonge
+secret
+confidence
+dialogue
+conversation
+discours
+argument
+preuve
+exemple
+raison
+conséquence
+effet
+résultat
+succès
+échec
+progrès
+développement
+croissance
+amélioration
+changement
+innovation
+découverte
+invention
+recherche
+expérience
+connaissance
+apprentissage
+compréhension
+intelligence
+mémoire
+imagination
+créativité
+talent
+compétence

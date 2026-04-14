@@ -1,0 +1,14 @@
+<!--
+  Copyright (c) 2026 Marion Bayé. Tous droits réservés.
+  Ce code source et ses ressources graphiques sont la propriété exclusive de Marion Bayé.
+  Toute reproduction, modification ou distribution non autorisée est strictement interdite.
+-->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <path
+        android:fillColor="#000000"
+        android:pathData="M12,3L3,12h5v8h8v-8h5L12,3z"/>
+</vector>

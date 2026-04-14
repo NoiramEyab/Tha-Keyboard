@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Copyright (c) 2026 Marion Bayé. Tous droits réservés.
+  Ce code source et ses ressources graphiques sont la propriété exclusive de Marion Bayé.
+  Toute reproduction, modification ou distribution non autorisée est strictement interdite.
+-->
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/settings_container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginTop="?attr/actionBarSize" />

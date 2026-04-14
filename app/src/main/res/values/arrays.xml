@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Copyright (c) 2026 Marion Bayé. Tous droits réservés.
+  Ce code source et ses ressources graphiques sont la propriété exclusive de Marion Bayé.
+  Toute reproduction, modification ou distribution non autorisée est strictement interdite.
+-->
+<resources>
+    <string-array name="theme_entries">
+        <item>Clair</item>
+        <item>Sombre</item>
+        <item>Bleu Gboard</item>
+    </string-array>
+
+    <string-array name="theme_values">
+        <item>light</item>
+        <item>dark</item>
+        <item>blue</item>
+    </string-array>
+
+    <string-array name="font_styles_entries">
+        <item>Classique</item>
+        <item>Moderne</item>
+    </string-array>
+
+    <string-array name="font_styles_values">
+        <item>classic</item>
+        <item>modern</item>
+    </string-array>
+</resources>

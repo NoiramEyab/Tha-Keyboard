@@ -1,0 +1,59 @@
+LICENCE PROPRIÉTAIRE — THAI KEYBOARD
+=====================================
+Copyright (c) 2026 Marion Bayé. Tous droits réservés.
+
+AVERTISSEMENT : CE LOGICIEL EST PROTÉGÉ PAR LA LOI SUR LE DROIT D'AUTEUR
+ET LES TRAITÉS INTERNATIONAUX SUR LA PROPRIÉTÉ INTELLECTUELLE.
+
+1. PROPRIÉTÉ
+   Ce logiciel, incluant son code source, ses ressources graphiques, ses
+   algorithmes, sa documentation et tout élément associé (ci-après "le
+   Logiciel"), est la propriété exclusive de Marion Bayé ("l'Auteur").
+   Aucun droit de propriété intellectuelle ne vous est transféré par la
+   mise à disposition de ce Logiciel.
+
+2. UTILISATION AUTORISÉE
+   L'utilisation de ce Logiciel est strictement réservée à l'Auteur.
+   Toute autre utilisation nécessite une autorisation écrite préalable
+   de l'Auteur.
+
+3. INTERDICTIONS
+   Il est expressément interdit, sans autorisation écrite préalable de
+   l'Auteur, de :
+   a) Reproduire, copier ou dupliquer tout ou partie du Logiciel ;
+   b) Modifier, adapter, traduire ou créer des œuvres dérivées ;
+   c) Distribuer, vendre, louer, prêter ou sous-licencier le Logiciel ;
+   d) Décompiler, désassembler, procéder à de l'ingénierie inverse ;
+   e) Supprimer ou modifier les mentions de propriété intellectuelle ;
+   f) Utiliser le Logiciel à des fins commerciales sans accord préalable.
+
+4. FOURNITURE "EN L'ÉTAT" (AS IS)
+   LE LOGICIEL EST FOURNI "EN L'ÉTAT", SANS GARANTIE D'AUCUNE SORTE,
+   EXPRESSE OU IMPLICITE, NOTAMMENT SANS GARANTIE DE QUALITÉ
+   MARCHANDE, D'ADÉQUATION À UN USAGE PARTICULIER, DE NON-VIOLATION
+   DES DROITS DE TIERS, D'EXACTITUDE, DE FIABILITÉ OU DE DISPONIBILITÉ.
+
+5. LIMITATION DE RESPONSABILITÉ
+   EN AUCUN CAS L'AUTEUR NE POURRA ÊTRE TENU RESPONSABLE DE TOUT
+   DOMMAGE DIRECT, INDIRECT, ACCIDENTEL, SPÉCIAL, EXEMPLAIRE OU
+   CONSÉCUTIF (Y COMPRIS, SANS LIMITATION, LA PERTE DE DONNÉES, DE
+   PROFITS, D'EXPLOITATION, OU TOUT AUTRE DOMMAGE) DÉCOULANT DE
+   L'UTILISATION OU DE L'IMPOSSIBILITÉ D'UTILISER CE LOGICIEL, MÊME
+   SI L'AUTEUR A ÉTÉ INFORMÉ DE LA POSSIBILITÉ DE TELS DOMMAGES.
+
+6. RÉSILIATION
+   Tout manquement aux termes de cette licence entraîne sa résiliation
+   automatique et immédiate. L'Auteur se réserve le droit d'engager
+   toute action légale appropriée en cas de violation.
+
+7. DROIT APPLICABLE
+   Cette licence est régie par le droit français. Tout litige relatif
+   à son interprétation ou son exécution sera soumis à la compétence
+   exclusive des tribunaux français compétents.
+
+8. CONTACT
+   Pour toute demande d'autorisation ou question relative à cette
+   licence, contacter l'Auteur.
+
+---
+Marion Bayé — © 2026 — Tous droits réservés.

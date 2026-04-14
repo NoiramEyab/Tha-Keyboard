@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Copyright (c) 2026 Marion Bayé. Tous droits réservés.
+  Ce code source et ses ressources graphiques sont la propriété exclusive de Marion Bayé.
+  Toute reproduction, modification ou distribution non autorisée est strictement interdite.
+-->
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <PreferenceCategory app:title="CLAVIER">
+        <SwitchPreferenceCompat
+            app:key="vibration_enabled"
+            app:title="@string/pref_vibration_title"
+            app:defaultValue="true" />
+        <SwitchPreferenceCompat
+            app:key="sound_enabled"
+            app:title="@string/pref_sound_title"
+            app:defaultValue="true" />
+    </PreferenceCategory>
+    <PreferenceCategory app:title="MISE EN PAGE">
+        <SeekBarPreference
+            android:key="height"
+            android:title="@string/pref_height_title"
+            android:defaultValue="150"
+            app:min="120"
+            android:max="180"
+            app:showSeekBarValue="true" />
+    </PreferenceCategory>
+</PreferenceScreen>

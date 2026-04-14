@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Copyright (c) 2026 Marion Bayé. Tous droits réservés.
+  Ce code source et ses ressources graphiques sont la propriété exclusive de Marion Bayé.
+  Toute reproduction, modification ou distribution non autorisée est strictement interdite.
+-->
+<resources>
+    <string name="app_name">ThaiKeyboard</string>
+    <string name="settings_title">Parametres</string>
+    <string name="category_languages">Langues</string>
+    <string name="category_preferences">Preferences</string>
+    <string name="category_themes">Themes</string>
+    <string name="category_correction">Correction et suggestions</string>
+
+    <string name="pref_vibration_title">Vibration</string>
+    <string name="pref_sound_title">Son</string>
+    <string name="pref_height_title">Hauteur du clavier</string>
+    <string name="pref_font_style_title">Style de police</string>
+</resources>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Copyright (c) 2026 Marion Bayé. Tous droits réservés.
+  Ce code source et ses ressources graphiques sont la propriété exclusive de Marion Bayé.
+  Toute reproduction, modification ou distribution non autorisée est strictement interdite.
+-->
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <Preference
+        app:title="Ajouter un clavier"
+        app:summary="Thaï, Français, Anglais" />
+
+    <PreferenceCategory app:title="Langues actives">
+        <SwitchPreferenceCompat
+            app:key="lang_th"
+            app:title="Thaï"
+            app:defaultValue="true" />
+        <SwitchPreferenceCompat
+            app:key="lang_fr"
+            app:title="Français"
+            app:defaultValue="true" />
+        <SwitchPreferenceCompat
+            app:key="lang_en"
+            app:title="Anglais"
+            app:defaultValue="true" />
+    </PreferenceCategory>
+
+    <PreferenceCategory app:title="Style des caractères">
+        <ListPreference
+            app:defaultValue="classic"
+            app:entries="@array/font_styles_entries"
+            app:entryValues="@array/font_styles_values"
+            app:key="font_style"
+            app:title="Style de police thaïe"
+            app:summary="%s" />
+    </PreferenceCategory>
+</PreferenceScreen>

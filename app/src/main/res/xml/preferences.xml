@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Copyright (c) 2026 Marion Bayé. Tous droits réservés.
+  Ce code source et ses ressources graphiques sont la propriété exclusive de Marion Bayé.
+  Toute reproduction, modification ou distribution non autorisée est strictement interdite.
+-->
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <Preference
+        app:key="languages"
+        app:title="@string/category_languages"
+        app:summary="Thaï, Français, Anglais"
+        app:icon="@drawable/ic_languages"
+        app:iconTint="@color/menu_blue"
+        app:iconSpaceReserved="true" />
+
+    <Preference
+        app:key="preferences"
+        app:title="@string/category_preferences"
+        app:summary="Vibration, son, hauteur du clavier"
+        app:icon="@drawable/ic_preferences"
+        app:iconTint="@color/menu_green"
+        app:iconSpaceReserved="true" />
+
+    <Preference
+        app:key="themes"
+        app:title="@string/category_themes"
+        app:summary="Couleurs et design"
+        app:icon="@drawable/ic_themes"
+        app:iconTint="@color/menu_orange"
+        app:iconSpaceReserved="true" />
+
+    <Preference
+        app:key="correction"
+        app:title="@string/category_correction"
+        app:summary="IA, correction automatique"
+        app:icon="@drawable/ic_correction"
+        app:iconTint="@color/menu_violet"
+        app:iconSpaceReserved="true" />
+
+</PreferenceScreen>

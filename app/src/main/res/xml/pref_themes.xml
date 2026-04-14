@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Copyright (c) 2026 Marion Bayé. Tous droits réservés.
+  Ce code source et ses ressources graphiques sont la propriété exclusive de Marion Bayé.
+  Toute reproduction, modification ou distribution non autorisée est strictement interdite.
+-->
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <ListPreference
+        app:key="theme"
+        app:title="Choisir le thème"
+        app:summary="%s"
+        app:entries="@array/theme_entries"
+        app:entryValues="@array/theme_values"
+        app:defaultValue="light" />
+
+    <ListPreference
+        app:key="font_style"
+        app:title="@string/pref_font_style_title"
+        app:summary="%s"
+        app:entries="@array/font_styles_entries"
+        app:entryValues="@array/font_styles_values"
+        app:defaultValue="classic" />
+
+</PreferenceScreen>

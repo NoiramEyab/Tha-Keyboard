@@ -1,0 +1,14 @@
+<!--
+  Copyright (c) 2026 Marion Bayé. Tous droits réservés.
+  Ce code source et ses ressources graphiques sont la propriété exclusive de Marion Bayé.
+  Toute reproduction, modification ou distribution non autorisée est strictement interdite.
+-->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+  <path
+      android:fillColor="@android:color/white"
+      android:pathData="M12.5,6.9c1.1,0.2 2.1,0.6 3.1,1.1l-1.4,1.4c-0.5,-0.3 -1.1,-0.5 -1.7,-0.5c-2.2,0 -4,1.8 -4,4s1.8,4 4,4c0.7,0 1.3,-0.2 1.8,-0.5l1.5,1.5c-0.9,0.6 -2.1,1 -3.3,1c-3.3,0 -6,-2.7 -6,-6s2.7,-6 6,-6zM20,2l-2,2 2,2 2,-2 -2,-2zM21.5,14.5l-1.5,-1.5 -1,1 1.5,1.5 -1,1 1.5,1.5 1,-1 -1.5,-1.5 1,-1zM16.5,2.5l-1.5,1.5 1,1 1.5,-1.5 1,1 1.5,-1.5 -1,-1 -1.5,1.5 -1,-1z"/>
+</vector>

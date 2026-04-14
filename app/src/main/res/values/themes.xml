@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Copyright (c) 2026 Marion Bayé. Tous droits réservés.
+  Ce code source et ses ressources graphiques sont la propriété exclusive de Marion Bayé.
+  Toute reproduction, modification ou distribution non autorisée est strictement interdite.
+-->
+<resources>
+
+    <style name="Theme.ThaiKeyboard" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/gboard_blue</item>
+        <item name="colorPrimaryDark">@color/gboard_blue</item>
+        <item name="colorAccent">@color/gboard_blue</item>
+        <item name="android:windowBackground">@color/settings_background</item>
+        <item name="preferenceTheme">@style/GboardPreferenceTheme</item>
+    </style>
+
+    <style name="GboardPreferenceTheme" parent="@style/PreferenceThemeOverlay">
+        <item name="preferenceCategoryStyle">@style/GboardPreferenceCategory</item>
+    </style>
+
+    <style name="GboardPreferenceCategory" parent="Preference.Category">
+        <item name="android:layout">@layout/preference_category_gboard</item>
+    </style>
+</resources>
